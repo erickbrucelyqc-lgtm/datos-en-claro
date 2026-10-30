@@ -1,3 +1,22 @@
+<!-- ERICK-LAB-INTRO -->
+<p align="center"><img src="erick_cover.svg" width="100%" alt="Insight Lab — Erick Quio" /></p>
+
+# Insight Lab · Erick Quio
+
+**Explorador CSV con filtros, métricas y validación de datos.**
+
+Este repositorio es un fork de [streamlit/streamlit](https://github.com/streamlit/streamlit). Se conservan los autores y las licencias originales. El aporte local es una demo o herramienta independiente; no equivale a una contribución aceptada por upstream.
+
+### Empieza aquí
+
+- [Demo, ejecución y pruebas](ERICK_LAB.md)
+- [Cambios respecto al original](https://github.com/streamlit/streamlit/compare/develop...erickbrucelyqc-lgtm:streamlit-insight-lab:develop)
+- [Perfil del desarrollador](https://github.com/erickbrucelyqc-lgtm)
+
+---
+
+## Documentación del proyecto original
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-top:50px"></img>
