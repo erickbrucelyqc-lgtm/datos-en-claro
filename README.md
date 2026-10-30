@@ -10,7 +10,7 @@ Este repositorio es un fork de [streamlit/streamlit](https://github.com/streamli
 ### Empieza aquí
 
 - [Demo, ejecución y pruebas](ERICK_LAB.md)
-- [Cambios respecto al original](https://github.com/streamlit/streamlit/compare/develop...erickbrucelyqc-lgtm:streamlit-insight-lab:develop)
+- [Cambios respecto al original](https://github.com/streamlit/streamlit/compare/develop...erickbrucelyqc-lgtm:datos-en-claro:develop)
 - [Perfil del desarrollador](https://github.com/erickbrucelyqc-lgtm)
 
 ---
