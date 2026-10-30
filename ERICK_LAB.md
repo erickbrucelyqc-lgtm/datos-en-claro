@@ -1,4 +1,4 @@
-# Insight Lab · Erick Quio
+# Datos en claro · Erick Quio
 
 **Dashboard interactivo de datos sobre Streamlit.** Este fork conserva el proyecto
 [Streamlit](https://github.com/streamlit/streamlit) y su licencia Apache-2.0.

@@ -1,7 +1,7 @@
 <!-- ERICK-LAB-INTRO -->
-<p align="center"><img src="erick_cover.svg" width="100%" alt="Insight Lab — Erick Quio" /></p>
+<p align="center"><img src="erick_cover.svg" width="100%" alt="Datos en claro — Erick Quio" /></p>
 
-# Insight Lab · Erick Quio
+# Datos en claro · Erick Quio
 
 **Explorador CSV con filtros, métricas y validación de datos.**
 
